@@ -23,12 +23,18 @@ Colored terminal feedback with colorama
 Modular and ready to integrate into larger SCADA systems
 
 📊 Visualization
+[Plot](https://github.com/user-attachments/assets/bb817cc0-5047-4c37-8caa-e89cb8758387)
+
 
 The script produces a plot showing:
 
 Tank levels over simulated time
 
 Setpoints for pump ON and OFF triggers
+
+
+
+
 
 📁 Project Structure
 
